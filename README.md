@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rafael
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C#
+- 💞️ I want to collaborate on web application projects
+- 📫 You can reach me on twitter as r4fael_simoes or by my email rafasleal2020@gmail.com
